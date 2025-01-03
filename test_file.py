@@ -1,0 +1,1 @@
+print("ChatGPT is not available now. Use your head")
